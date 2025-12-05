@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "月下美人",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-05T01:49:02.767149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月下美人",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/01_月下美人_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月下美人",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/02_月下美人_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "月下美人",
+      "artist": "西城秀樹",
+      "has_synced": false,
+      "path": "select/03_月下美人_西城秀樹.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gekka Bijin [月下美人]",
+      "artist": "Hideki Saijo",
+      "has_synced": false,
+      "path": "select/04_Gekka_Bijin_[月下美人]_Hideki_Saijo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "月下美人",
+      "artist": "門あさ美",
+      "has_synced": true,
+      "path": "select/05_月下美人_門あさ美.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LUNA (월하미인 (月下美人 : LUNA))",
+      "artist": "ONEUS",
+      "has_synced": true,
+      "path": "select/06_LUNA_(월하미인_(月下美人___LUNA))_ONEUS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "月下美人",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/07_月下美人_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "月下美人",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/08_月下美人_≠ME.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "月下美人",
+      "artist": "Hideki Saijo",
+      "has_synced": false,
+      "path": "select/09_月下美人_Hideki_Saijo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "月下美人",
+      "artist": "門 あさ美",
+      "has_synced": true,
+      "path": "select/10_月下美人_門_あさ美.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "月下美人 (Remastered 2024)",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/11_月下美人_(Remastered_2024)_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "月下美人",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/12_月下美人_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "月下美人",
+      "artist": "lyrical school",
+      "has_synced": false,
+      "path": "select/13_月下美人_lyrical_school.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月下美人",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_月下美人_≠ME.txt"
+    }
+  ]
+}
